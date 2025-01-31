@@ -1,0 +1,19 @@
+<?xml version ="1.0" encoding = "utf-8"?>
+<rss version="2.0">
+<chanel>
+    <title>Mi canal de RSS </title>
+    <link>file:///C:/HTML/LNM/mylastweb.html</link>
+    <description>Noticias de actualidad</description>
+    <item> 
+        <title>Noticias de actualidad</title>
+        <link>https://www.elmundotoday.com</link>
+        <description>Noticias sobre El Mundo Today</description>
+    </item>
+    <item> 
+        <title>Noticias deportivas </title>
+        <link>https://as.com</link>
+        <description>Noticias de actualidad deportiva</description>
+
+    </item>
+</chanel>
+</rss>
